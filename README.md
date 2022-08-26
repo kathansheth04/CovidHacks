@@ -12,10 +12,6 @@ Breakout COVID can be used as an app and website, which uses Machine Learning mo
 * Heroku to host the machine learning model, which is used by mobile app and website
 * Chart to display COVID information in app
 
-# Video Demonstration of the App
-
-https://youtu.be/8_ZUPdVPPiE
-
 # Development Environment and softwares Used
 
 * [Flutter](https://flutter.dev/)
